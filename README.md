@@ -1,7 +1,3 @@
-# people2
-# people3
-# people4
-# people5
-# really
-# really
-# really
+# easy chess quiz 1
+# difficulty:easy
+# I know you can get the full mark
